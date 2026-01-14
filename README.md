@@ -37,4 +37,4 @@ https://uselessfacts.jsph.pl/random.json?language=en
 ---
 
 ## 📸 Screenshot
-![Application Screenshot]()
+![Application Screenshot](Fun-Fact-Generator-WebApp/screenshot.png)
