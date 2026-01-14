@@ -5,10 +5,10 @@ A simple Python-based web application that displays random fun facts using the *
 ---
 
 ## 🚀 Features
-✅ Random fun facts on each click  
-✅ API integration using GET requests  
-✅ JSON parsing in Python  
-✅ Simple browser-based UI using PyWebIO  
+✅ Random fun facts on each click.  
+✅ API integration using GET requests.
+✅ JSON parsing in Python.  
+✅ Simple browser-based UI using PyWebIO.  
 
 ---
 
