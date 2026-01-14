@@ -31,10 +31,5 @@ A simple Python-based web application that displays random fun facts using the *
 
 ---
 
-## 🌐 API Used
-https://uselessfacts.jsph.pl/random.json?language=en
-
----
-
 ## 📸 Screenshot
 ![Application Screenshot](Fun-Fact-Generator-WebApp/screenshot.png)
